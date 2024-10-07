@@ -1,0 +1,10 @@
+{
+  "_class_name": "DPMSolverMultistepScheduler",
+  "_diffusers_version": "0.11.1",
+  "beta_end": 2e-2,
+  "beta_schedule": "linear",
+  "beta_start": 1e-4,
+  "clip_sample": false,
+  "num_train_timesteps": 1000,
+  "prediction_type": "epsilon"
+}
